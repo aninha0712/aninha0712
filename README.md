@@ -1,16 +1,21 @@
-## Hi there 👋
+<h3>🍀Bem vindos ao perfil🍀</h3>
 
-<!--
-**aninha0712/aninha0712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+✨Sobre mim✨:
+<br>
+<br>
+->💻Desenvolvedora de software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+->👩‍🎓aluna de lógica de programação
+
+->🎃Pronomes:ela/dela
+
+->🏐Jogadora de vôlei
+
+<br>
+<br>
+Atualmente estudando desenvolvimentos de jogos,websites, com foco em "C#", unity e "javascript".
+
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" /><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-line.svg" />  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+          
